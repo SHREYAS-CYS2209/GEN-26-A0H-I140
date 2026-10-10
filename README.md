@@ -2,12 +2,12 @@
 
 ## GEN26-A0H-IXXX
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** : QuickER <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |    🏚️Hosteller/Dayscholar     |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:------------------------------:| 
+|   Team Leader   |  Shreyas.R              |  CB.SC.U4CYS25162      |     Male        |              CYS                |   Hosteller(Vasishta Bhavanam) |
+|    Member 2     |  Shabarish.B            |  CB.SC.U4CYS25161      |     Male        |              CYS                |   Hosteller(Vasishta Bhavanam) |
+|    Member 3     |  Sandilya.K             |  CB.SC.U4CYS25029      |     Male        |              CYS                |   Hosteller(Vasishta Bhavanam) |                               
+|    Member 4     |  Pranav.A               |  CB.SC.U4CYS25137      |     Male        |              CYS                |   Hosteller(Bhrigu Bhavanam)   |                                  
 
